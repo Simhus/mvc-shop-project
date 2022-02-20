@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organicus", "Organicus\Organicus.csproj", "{AE23A770-0FFC-47AF-BC53-0A66B1822797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE23A770-0FFC-47AF-BC53-0A66B1822797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE23A770-0FFC-47AF-BC53-0A66B1822797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE23A770-0FFC-47AF-BC53-0A66B1822797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE23A770-0FFC-47AF-BC53-0A66B1822797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2D9FAB7-A5E9-4217-A07E-0A510943AD41}
+	EndGlobalSection
+EndGlobal
